@@ -1,4 +1,4 @@
-package doorgod
+package watchdog
 
 import (
 	"github.com/casbin/casbin"
